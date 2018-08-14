@@ -3,6 +3,7 @@
 	<head>
 		<title>FRESH - PSU.GD Senior Showcase - SUMMER 2018</title>
 		<?php include 'header.php' ?>
+		
 		<link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700" rel="stylesheet">
 	</head>
 	<body>
