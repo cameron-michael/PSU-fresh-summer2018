@@ -15,8 +15,8 @@ Spring 2018 COLORS & FONTS
 ========================================================================== */
      
      @font-face {
-         font-family: 'roobert_bold';
-         src: url('Roobert-SemiBold.otf');
+         font-family: 'Josefin Sans';
+         src: https://fonts.googleapis.com/css?family=Josefin+Sans:400,700';
      }
      
      @font-face {
@@ -98,7 +98,8 @@ Main Body Styles
      h4,
      h5,
      h6 {
-         font-family: 'roobert_bold';
+         font-family: 'Josefin Sans', sans-serif;
+		 font-weight: 700;
      }
      
      h1 {
@@ -110,7 +111,8 @@ Main Body Styles
          line-height: 1.5;
          letter-spacing: 1px;
          font-size: 1.1em;
-		 font-family: 'JosefinSans-Bold';
+		 font-family: 'Josefin Sans', sans-serif;
+		 font-weight: 700;
      }
      
      h3 {
@@ -129,8 +131,8 @@ Main Body Styles
      }
      
      p {
-         font-family: 'JosefinSans-Regular';
-		 
+         font-family: 'Josefin Sans', sans-serif;
+		 font-weight: 400;
          font-size: 1.1em;
          line-height: 1.5;
          letter-spacing: .02em;
@@ -138,7 +140,8 @@ Main Body Styles
          padding-bottom: 16px;
      }
 	  h7 {
-         font-family: 'JosefinSans-Bold';
+         font-family: 'Josefin Sans', sans-serif;
+		 font-weight: 400;
 		 
          font-size: 1.1em;
          line-height: 1.5;
