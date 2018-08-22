@@ -16,6 +16,7 @@
 <!-- CSS FRAMEWORK--> <!-- change every term -->
 <link href="src/styles/summer2018/summer2018.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:400,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Work+Sans:400,700" rel="stylesheet">
 <!-- END CSS -->
 
 

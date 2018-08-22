@@ -42,7 +42,7 @@ Main Body Styles
      
      body {
          font-size: 15px;
-         background-color:none;
+         background-color:#363636;
        
          height: 110vh;
      }
@@ -68,19 +68,21 @@ Main Body Styles
      h1 {
          font-size: 1.7em;
          letter-spacing: 1px;
+		 font-weight:700;
      }
      
      h2 {
          line-height: 1.5;
          letter-spacing: 1px;
          font-size: 1.1em;
-		 font-family: 'Josefin Sans', sans-serif;
+		 font-family: 'Work Sans', sans-serif;
 		 font-weight: 700;
      }
      
      h3 {
          letter-spacing: 2px;
          font-size: 3em;
+		 font-weight:700;
      }
      
      a {
@@ -92,15 +94,118 @@ Main Body Styles
      strong {
          font-weight: bold;
      }
-     
+	 .top_bar{
+	            top: 0px;
+         left: 0px;
+         padding: 15px 90px;
+         background:#363636;
+         height: 80px;
+         width: 100%;
+         display:-webkit-box;
+         display:-ms-flexbox;
+         display:flex;
+         -webkit-box-orient: horizontal;
+         -webkit-box-direction: normal;
+             -ms-flex-direction: row;
+                 flex-direction: row;
+         -ms-flex-wrap: wrap;
+             flex-wrap: wrap;
+         -webkit-box-pack: justify;
+             -ms-flex-pack: justify;
+                 justify-content: space-between;
+         -ms-flex-line-pack: stretch;
+             align-content: stretch;
+          -webkit-box-align: center;
+              -ms-flex-align: center;
+                  align-items: center;
+				  
+				  }
+				  
+				  
+	 .top_bar p{
+         float: left;
+         color: white;
+         padding-bottom: 0px;
+         font-size: 1.2em;
+     }
+	 
+	 #mobile_logo{
+         display: none;
+     }
+				  
+	 .bottom_bar {
+         padding: 15px 90px;
+         padding-top: 25px;
+         background:#363636;
+         width: 100%;
+         display: -webkit-box;
+         display: -ms-flexbox;
+         display: flex;
+         -webkit-box-orient: horizontal;
+         -webkit-box-direction: normal;
+             -ms-flex-direction: row;
+                 flex-direction: row;
+         -ms-flex-wrap: wrap;
+             flex-wrap: wrap;
+         -webkit-box-pack: justify;
+             -ms-flex-pack: justify;
+                 justify-content: space-between;
+         -ms-flex-line-pack: stretch;
+             align-content: stretch;
+         -webkit-box-align: start;
+             -ms-flex-align: start;
+                 align-items: flex-start;
+     }
+   .gif{
+         background-image: url("../../img/summer2018/Tease.gif");
+         background-size: contain;
+         background-repeat: repeat-x;
+         background-position: center;
+         height: 72vh;
+     }
+
+     .mobile_introtext{
+         display: none;
+         border-bottom: 1px solid white;
+         margin-bottom: 3%;
+         min-width: 100%;
+     }
+
+     .mobile_introtext p{
+         float: left;
+         min-width: 50%;
+     }
+
+     .bottom_bar img{
+         min-width: 30%;
+         max-width: 35%;
+         padding-right: 5%; 
+         float: left;
+         position: relative;
+         
+     }
+
+     .bottom_bar div {
+         float: left;
+         max-width: 60%;
+     }
+
+     .bottom_bar p {
+         float: left;
+         max-width: 50%;
+         padding-right: 3%;
+         color: white;
+     }
+
+
      p {
          font-family: 'Josefin Sans', sans-serif;
 		 
-         font-size: 1.1em;
+         font-size: 1em;
          line-height: 1.5;
          letter-spacing: .02em;
-         color: black;
-         padding-bottom: 16px;
+         color: white;
+         padding-bottom: 5px;
      }
 	  h7 {
          font-family: 'Josefin Sans', sans-serif;
@@ -122,8 +227,8 @@ Main Body Styles
      }
      
      p a:hover {
-         color: black;
-         border-color: black;
+         color: white;
+         border-color: white;
      }
      
      .reg {
@@ -154,7 +259,7 @@ Main Body Styles
      }
      
      .header {
-         background-color: #D8DED0;
+         
          opacity: 1;
          height: 64vh !important;
          /* border-bottom: 10px solid #db202a; */
@@ -198,6 +303,7 @@ Main Body Styles
          max-width: 800px;
          position: relative;
          top: 4%;
+		 
      }
      
      .header-container svg {
@@ -258,7 +364,7 @@ Main Body Styles
      /* This is the intro text on the index page */
      
      .statement {
-         background: #D8DED0;
+         background: #363636;
          color: black;
          padding-bottom: 140px;
          margin-bottom: 30px;
@@ -272,7 +378,7 @@ Main Body Styles
      }
      
      .statement p {
-         color: black;
+         color: white;
          padding: 15px 30px 15px 15px;
 		 
          line-height: 28px;
@@ -548,7 +654,7 @@ Main Body Styles
          margin: auto;
          width: 100%;
          padding: 0 15%;
-         margin-bottom: 5%;
+         margin-bottom: 15px;
      }
      
      .eventData .how h2{
@@ -795,6 +901,7 @@ flexslider
          position: relative;
          padding-bottom: 5%;
          border-bottom: 3px solid #FF3322;
+		 border-top: 3px solid #FF3322;
      }
      
      .photoGrid {
@@ -982,24 +1089,29 @@ flexslider
      
      .biobg {
          /* this is applied to  of profile page */
-         background-color: #CCFD3C7;
+         background-color: #363636;
          background-attachment: fixed;
      }
      /* - - - - - - - - - - - - - - - - - - - header of profile pages */
      
      .logo-grad {
          position: absolute;
-         top: 35px;
-         left: 60px;
+         top: 15px;
+         left: 0px;
          z-index: 2;
      }
      
      .logo-grad svg {
-         height: 70px;
+         height: 505px;
      }
 
      .logo-grad a{
          border:none;
+     }
+	 
+	 .logo-grad img{
+         height:100%;
+		 width:100%;
      }
      /*
 .logo-grad svg path {
@@ -1012,9 +1124,9 @@ flexslider
      
      .biosection {
          margin: 0px 0 0 0;
-         padding-top: 50px;
+         padding-top: 200px;
          position: relative;
-         background: rgba(255, 255, 255, 0.85);
+         background: #363636;
          width: 94vw;
          margin: auto;
      }
@@ -1101,19 +1213,25 @@ flexslider
          padding-bottom: 15px;
          font-size: 2.5em;
          line-height: 1.2;
+		 font-weight:700;
      }
+       
      
      .bioleft h1 {
          text-align: center;
+		 
      }
      
 
-     
+   
+	 	
      .bio h2 {
          /* project title */
-         color: black;
+         color: white;
          font-size: 1.75em;
-         padding-bottom: .2em;
+         
+		 border-bottom: #FFFFFF solid 3px;
+		  padding-top: 6%;
      }
      
      .bio_question {
@@ -1135,19 +1253,7 @@ flexslider
          letter-spacing: .03em;
      }
      
-     .bio p {
-         border-bottom: #FF3322 solid 3px;
-         padding-bottom: 6%;
-     }
-     
-     .bio .p_noborder{
-         border-bottom:none;
-         padding-bottom: 3%;
-     }
-
-     .bio .p_border{
-         border-bottom: #FF3322 solid 3px;
-     }
+    
 
 
      .bio img {
@@ -1192,7 +1298,7 @@ flexslider
      }
      
      .c6.bio a {
-         color: black;
+         color: red;
      }
      
      .c6.bio a:hover {
@@ -1905,6 +2011,12 @@ flexslider
                      max-width: 100%;
                      padding: 30px 20px 140px 20px;
                  }
+				 
+				 #moblie_logo{  
+				   	display: block;
+     				margin-top: 5%;
+        	        margin-bottom: 5%;
+}
                  .footerLogos {
                      display: -webkit-box;
                      display: -ms-flexbox;
@@ -1918,6 +2030,8 @@ flexslider
                  footer {
                      display: block;
                  }
+				 
+				 
              }
              /* =Media query for 800px wide - this is where 3 column
     photo grid turns into a single column
@@ -1963,6 +2077,7 @@ flexslider
 
                  .biosection{
                      width: 100vw;
+					 background-color:#363636;
                  }
              }
              /* =Media query for iPad and tablets
@@ -2053,6 +2168,7 @@ flexslider
                      max-width: 94%;
                      margin: 0 auto;
                  }
+				 
              }
              /* =Media query for 480 Screens
 -------------------------------------------------------------- */
@@ -2119,7 +2235,7 @@ flexslider
                  }
             
                  .logo-grad {
-                 width: 100%;
+                 width: 70%;
                  left: 0px;
                 }
                 

@@ -38,19 +38,19 @@
     <div id="footerBlurb">
       <p class="footerBlurb clear">Thanks for taking a look at FRESH! Check out FRESH's cousin, <a href="http://www.psu.gd/be-honest" target="_blank">Be Honest</a>, an open portfolio party that happens every spring.</p>
       <p>FRESH requires registration. If you are interested in working with or speaking to one of our grads, please register for the event through <a target="_blank" href="https://www.eventbrite.com/e/fresh-portland-state-senior-portfolio-show-tickets-46379530424?aff=efbeventtix">Eventbrite</a>. Also, take a peek at our graduate <a href="archive.php">archive.</a></p>
-      <p>Thank you <a target="_blank" href="https://www.halfcourtstudio.com/">Halfcourt</a> for lending us your studio for our class portraits.</p>
+      <p>Thank you <a target="_blank"  href="https://whoisowenjones.com"> Owen Jones</a> for lending us your studio for our class portraits.</p>
     </div>
     
     <div class="credits-container">
-      <p class="credits">Creative Direction by <span><a href="grad.php?name=billy_corona">Jasmin Limbaugh</a>, <a href="grad.php?name=brenda_madrigal">Brenda Madrigal</a>, <a href="grad.php?name=euri_oh">Euri Oh</a>, <a href="grad.php?name=james_casey">James Casey</a> &amp; <a href="grad.php?name=skylar_nguyen">Skylar Nguyen</a></span></p>
+      <p class="credits">Creative Direction by <span><a href="grad.php?name=jasmin_limbaugh">Jasmin Limbaugh</a></span></p>
       
-      <p class="credits">Project Management by <span><a href="grad.php?name=ciera_tague">Anna Slusser</a></span></p>
+      <p class="credits">Project Management by <span><a href="grad.php?name=anna_slusser">Anna Slusser</a></span></p>
             
-      <p class="credits">Photography by <span><a href="grad.php?name=sarah_markstaller">Tanner Jones</a> &amp; <a href="grad.php?name=euri_oh">Euri Oh</a></span></p>
+      <p class="credits">Photography by <span><a href="grad.php?name=tanner_jones">Tanner Jones</a> &amp; <a href="grad.php?name=stephanie_doshier">Stephanie Doshier</a>&amp; <a href="grad.php?name=charlie_hilton">Charlie Hilton</a></span></p>
       
-      <p class="credits">Copywriting by <span><a href="grad.php?name=chloe_kendall">Kate Pederson</a> &amp; <a href="grad.php?name=violet_reed">Violet Reed</a></span></p>
+      <p class="credits">Copywriting by <span><a href="grad.php?name=kate_pedersen">Kate Pedersen</a></span></p>
       
-      <p class="credits">Web Design &amp; Design by <span><a href="grad.php?name=kyle_charlson">Cameron Olszewski</a></span></p>
+      <p class="credits">Web Design &amp; Design by <span><a href="grad.php?name=cameron_olszewski">Cameron Olszewski</a></span></p>
     </div> <!-- end credits-container -->
     
   </div> <!-- end c5 -->
