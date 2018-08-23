@@ -2086,9 +2086,9 @@ flexslider
                      display: -webkit-box;
                      display: -ms-flexbox;
                      display: flex;
-                     flex-wrap: wrap;
+                     
                      justify-content: flex-start;
-                     width: 60%;
+                     width: 100%;
                      left: 40px;
                      padding-top: 30px;
                  }
