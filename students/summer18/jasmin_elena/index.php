@@ -3,11 +3,11 @@
 
 
     <div class="website_btn">
-        <a target="_blank" href="http://cameronolszewski.com/">VIEW WEBSITE</a>
+        <a target="_blank" href="http://jasmin-elena.com/">VIEW WEBSITE</a>
     </div>
 	
 		<div class="website_btn">
-        <a target="_blank" href="http://stephdoshier.co/">VIEW INSTAGRAM</a>
+        <a target="_blank" href="http://instagram.com/lavispaelli">VIEW INSTAGRAM</a>
     </div>
 </div>
 
@@ -32,29 +32,29 @@ lines. When she grows up, she wants to be as free and fearless as when she was l
 
 
 
-    <img class="artwork" src="students/summer18/cameron_olszewski/c_olszewski_image_1.jpg" alt="Photo of Project 1">
-    <h2>CONGI</h2>
+    <img class="artwork" src="students/summer18/jasmin_elena/j_elena_image1.jpg" alt="Photo of Project 1">
+    <h2>Rhythm</h2>
 	<br>
-    <p>Cogni is about understanding the terpenes that are being used in each strain. Showing each strain its benefits from what terpenes are being used gives the customer a better understanding on what they want in their bodies. </p>
+    <p>Rhythm is an experimental type project which shows the evolution of fruit from a fresh state to one of decomposition. </p>
 
-    <img class="artwork" src="students/summer18/cameron_olszewski/c_olszewski_image_3.jpg" alt="Photo of Project 2">
-    <h2>SELL OR BE SOLD</h2>
+    <img class="artwork" src="students/summer18/jasmin_elena/j_elena_image2.jpg" alt="Photo of Project 2">
+    <h2>Miss Merryweather</h2>
 	<br>
-    <p>A zine that focuses on how hardcore punk from certain music scenes has contributed to social change.</p>
+    <p>A spread from a children's book in progress. It is a story about imagination and the ability of children to take mundane moments and create magical experiences. </p>
    
    
 
-    <img class="artwork" src="students/summer18/cameron_olszewski/c_olszewski_image_2.jpg" alt="Photo of Project 3">
-    <h2>RICHMOND READY</h2>
+    <img class="artwork" src="students/summer18/jasmin_elena/j_elena_image3.jpg" alt="Photo of Project 3">
+    <h2>Dead G.O.A.T.</h2>
 	<br>
-    <p>Richmond Ready is an organization that promotes emergency prepardness in the Richmond neighborhood in SE Portland. The goal for this brand was to promote a strong community in the neighborhood. </p>
+    <p>Dead G.O.A.T. is a deck of cards highlighting four genres of music and four passed artists which define them. </p>
  
 
 
-    <img class="artwork" src="students/summer18/cameron_olszewski/c_olszewski_image_4.jpg" alt="Photo of Project 4">
-    <h2>DONNYBROOK</h2>
+    <img class="artwork" src="students/summer18/jasmin_elena/j_elena_image4.jpg" alt="Photo of Project 4">
+    <h2>Beecause Poster</h2>
 	<br>
-    <p>Donnybrook is for your casual drinker that wants to embrace their rubbish side of their personality. Inspired by the gritty streets of London, this gin is direct, unapologetic, and doesn’t hold back on how much of a rebel gin can be.</p>
+    <p>A poster from a campaign and convention which uses inspiration from 50s consumer culture to raise awareness surrounding the declining of bees. The campaign worked to engage people through self interest to highlight how declining bees would impact their daily lives. </p>
 
 </div>
 

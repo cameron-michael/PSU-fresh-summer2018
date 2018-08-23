@@ -194,6 +194,7 @@ Main Body Styles
          float: left;
          padding-right: 3%;
          color: white;
+		 width: 60%;
      }
 
 
@@ -1657,7 +1658,7 @@ flexslider
          position: fixed;
          border: 10px solid #9D9D93;
          background: white;
-         font-family: "din-2014", sans-serif;
+         font-family: 'Josefin Sans', sans-serif;
          font-style: normal;
          font-weight: 400;
          -webkit-transition: all 2px;
@@ -2260,7 +2261,7 @@ flexslider
                      width: 80%;
                      left: 20px;
                      padding-top: 30px;
-                     padding-bottom: 120px;
+                    
                  }
                  .footer {
                      padding: 30px 0 350px 0;

@@ -24,7 +24,7 @@
 	 – Apparel<br> 
 	 – Animation </p><br> 
 	<p><strong>Bio:</strong><p>
-    <p>Luis is looking for a fancy job that's attracted to his skills in illustration and typography design. You can catch him playing basketball or in the wild on his free time, as it helps him when he needs some design inspiration. He loves the hip-hop-rap culture and enjoys integrating different elements from it into his design. When he grows up,</p>
+    <p>Luis is looking for a fancy job that's attracted to his skills in illustration and typography design. You can catch him playing basketball or in the wild on his free time, as it helps him when he needs some design inspiration. He loves the hip-hop-rap culture and enjoys integrating different elements from it into his design. When he grows up, he wants to own a t-shirt company. </p>
 
 
 
@@ -49,7 +49,7 @@
     <img class="artwork" src="students/summer18/luis_hernadez/l_hernadez_image4.jpg" alt="Photo of Project 4">
     <h2>Through The Type</h2>
 	<br>
-    <p>an installation piece where typography and the human perspective converge into one. It consisted of 14 curated typographic works based on 14 audible interviews, all centered around one question. What is one moment that changed your life?The intent of Through the Type was to show the audience a typographic window into every interviewee’s life changing event and by doing so bringing perspective to an unknown voice.</p>
+    <p>An installation piece where typography and the human perspective converge into one. It consisted of 14 curated typographic works based on 14 audible interviews, all centered around one question. What is one moment that changed your life?The intent of Through the Type was to show the audience a typographic window into every interviewee’s life changing event and by doing so bringing perspective to an unknown voice.</p>
 
 </div>
 

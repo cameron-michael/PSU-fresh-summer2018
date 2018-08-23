@@ -29,7 +29,7 @@
 
   <div class="s2 c3 footerLogo">
     <a href="/fresh/">
-      <h3>TAKING<br>SHAPE</h3>
+      <h3>SPEED<br>DATING</h3>
     </a>
   </div>
   
@@ -42,7 +42,7 @@
     </div>
     
     <div class="credits-container">
-      <p class="credits">Creative Direction by <span><a href="grad.php?name=jasmin_limbaugh">Jasmin Limbaugh</a></span></p>
+      <p class="credits">Creative Direction by <span><a href="grad.php?name=jasmin_limbaugh">Jasmin Elena</a></span></p>
       
       <p class="credits">Project Management by <span><a href="grad.php?name=anna_slusser">Anna Slusser</a></span></p>
             
@@ -50,7 +50,7 @@
       
       <p class="credits">Copywriting by <span><a href="grad.php?name=kate_pedersen">Kate Pedersen</a></span></p>
       
-      <p class="credits">Web Design &amp; Design by <span><a href="grad.php?name=cameron_olszewski">Cameron Olszewski</a></span></p>
+      <p class="credits">Web Design by <span><a href="grad.php?name=cameron_olszewski">Cameron Olszewski</a></span></p>
     </div> <!-- end credits-container -->
     
   </div> <!-- end c5 -->
@@ -80,29 +80,25 @@
   <img class="schoolLogos psu" src="src/img/logos/black/psulogo.svg" alt="psulogo">
   </a>
 
-  <a href="https://www.halfcourtstudio.com/" target="_blank">
-  <img class="schoolLogos footerSponsor" src="src/img/spring2018/halfcourt_logo-01.svg" alt="Baby Doll Pizza">
+  <a href="https://www.wildrootsspirits.com/" target="_blank">
+  <img class="schoolLogos footerSponsor" src="src/img/summer2018/wrlogo.png" alt="Wild Roots">
   </a>
   
-  <a href="https://www.sizzlepie.com/" target="_blank">
-  <img class="schoolLogos footerSponsor" src="src/img/spring2018/sizzle_pie_logo.svg" alt="Deschutes Brewery">
+   <a href="http://www.decadentcreations.com/" target="_blank">
+  <img class="schoolLogos footerSponsor" src="src/img/summer2018/dclogo.png" alt="Decadent Creations">
+  </a>
+
+  
+  <a href="https://www.redduckfoods.com/" target="_blank">
+  <img class="schoolLogos footerSponsor" src="src/img/summer2018/red_duck.png" alt="Red Duck">
   </a>
 
   <a href="https://www.rogue.com/" target="_blank">
-  <img class="schoolLogos footerSponsor" src="src/img/spring2018/rogue-ales-logo.svg" alt="Deschutes Brewery">
+  <img class="schoolLogos footerSponsor" src="src/img/summer2018/rogue-ales-logo.svg" alt="Rogue">
   </a>
   
-  <a href="http://www.customblocksportland.com/" target="_blank">
-  <img class="schoolLogos footerSponsor" src="src/img/spring2018/CapstonePartnersLogo_2015_Bluegrey.svg" alt="Kamp Grizzly">
-  </a>
-
-  <a href="https://www.newseasonsmarket.com/" target="_blank">
-  <img class="schoolLogos footerSponsor" src="src/img/spring2018/newseasons_logo.svg" alt="Deschutes Brewery">
-  </a>
-  
-  <a href="https://www.coffeebeer.me/" target="_blank">
-  <img class="schoolLogos footerSponsor" src="src/img/spring2018/coffee_beer_logo.svg" alt="Kamp Grizzly">
-  </a>
+ 
+ 
   
 </div> <!-- end footerLogos -->
 

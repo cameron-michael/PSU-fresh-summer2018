@@ -28,28 +28,27 @@
 
 
     <img class="artwork" src="students/summer18/emma_callender/e_callender_image1.jpg" alt="Photo of Project 1">
-    <h2>CONGI</h2>
+    <h2>Bad-Ass</h2>
 	<br>
-    <p>Cogni is about understanding the terpenes that are being used in each strain. Showing each strain its benefits from what terpenes are being used gives the customer a better understanding on what they want in their bodies. </p>
-
+    <p>Bad-Ass is a magazine about self-identifying women thriving and striving for greatness in the outdoor industry. The magazine features articles and stories highlighting women who are advocating for equality and pushing boundaries in the outdoors.</p>
     <img class="artwork" src="students/summer18/emma_callender/e_callender_image2.jpg" alt="Photo of Project 2">
-    <h2>SELL OR BE SOLD</h2>
+    <h2>Prost!</h2>
 	<br>
-    <p>A zine that focuses on how hardcore punk from certain music scenes has contributed to social change.</p>
+    <p>Prost! Winery was created for the beginner wine drinker, with a bright white bottle and fun pattern to draw in the younger audience. The patterns were inspired by the Memphis art movement and combined with a dynamic wordmark to keep the entire bottle exciting and unique.</p>
    
    
 
     <img class="artwork" src="students/summer18/emma_callender/e_callender_image3.jpg" alt="Photo of Project 3">
-    <h2>RICHMOND READY</h2>
+    <h2>Unequal Access</h2>
 	<br>
-    <p>Richmond Ready is an organization that promotes emergency prepardness in the Richmond neighborhood in SE Portland. The goal for this brand was to promote a strong community in the neighborhood. </p>
+    <p>Editorial infographic for an article on the inequalities in the outdoor industry.</p>
  
 
 
     <img class="artwork" src="students/summer18/emma_callender/e_callender_image4.jpg" alt="Photo of Project 4">
-    <h2>DONNYBROOK</h2>
+    <h2>Tval</h2>
 	<br>
-    <p>Donnybrook is for your casual drinker that wants to embrace their rubbish side of their personality. Inspired by the gritty streets of London, this gin is direct, unapologetic, and doesn’t hold back on how much of a rebel gin can be.</p>
+    <p>A Swedish soap brand created from only the basic ingredients and inspired by its minimal lifestyle. The serif typeface combined with a modern sans serif is used to draw the audience in with a known, classic style, as well as show that the company is still moving forward with the new sans serif.</p>
 
 </div>
 
