@@ -7,7 +7,7 @@
     </div>
 	
 	 <div class="website_btn">
-        <a target="_blank" href="http://instagram.com/gupthefish">VIEW WEBSITE</a>
+        <a target="_blank" href="http://instagram.com/gupthefish">VIEW INSTAGRAM</a>
     </div>
 </div>
 

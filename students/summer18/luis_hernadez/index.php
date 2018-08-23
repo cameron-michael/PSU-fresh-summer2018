@@ -29,28 +29,27 @@
 
 
     <img class="artwork" src="students/summer18/luis_hernadez/l_hernadez_image1.jpg" alt="Photo of Project 1">
-    <h2>CONGI</h2>
+    <h2>Atomik Energy</h2>
 	<br>
-    <p>Cogni is about understanding the terpenes that are being used in each strain. Showing each strain its benefits from what terpenes are being used gives the customer a better understanding on what they want in their bodies. </p>
+    <p>Atomik Energy is a branded energy drink that was made to look elementaly ill! Atomik flavors are each based on an element from the periodic table, but were aesthetically modernized by giving them the graffiti look. The goal of this brand was to cater towards the younger audience and hip hop/rap scene. </p>
 
     <img class="artwork" src="students/summer18/luis_hernadez/l_hernadez_image2.jpg" alt="Photo of Project 2">
-    <h2>SELL OR BE SOLD</h2>
+    <h2>Cochita</h2>
 	<br>
-    <p>A zine that focuses on how hardcore punk from certain music scenes has contributed to social change.</p>
-   
+    <p>Cochita shortbreads are branded cookies who’s visual aesthetic was inspired by the ancient animal carvings of the Aztecs. These delicious shortbread cookies come in three traditional fruit flavors, prickly pear, papaya and fig.</p>   
    
 
     <img class="artwork" src="students/summer18/luis_hernadez/l_hernadez_image3.jpg" alt="Photo of Project 3">
-    <h2>RICHMOND READY</h2>
+    <h2>Wu Tang – 36 Chambers of Death</h2>
 	<br>
-    <p>Richmond Ready is an organization that promotes emergency prepardness in the Richmond neighborhood in SE Portland. The goal for this brand was to promote a strong community in the neighborhood. </p>
+    <p>This project was the rebranding of the critically acclaimed Wu -Tang album, Enter the Wu-Tang, 36 Chambers of Death. By emulating traditional ukiyo-e Japanese painting, you are able to to experience all 360 degrees of the Wu-tang's perfected styles. </p>
  
 
 
     <img class="artwork" src="students/summer18/luis_hernadez/l_hernadez_image4.jpg" alt="Photo of Project 4">
-    <h2>DONNYBROOK</h2>
+    <h2>Through The Type</h2>
 	<br>
-    <p>Donnybrook is for your casual drinker that wants to embrace their rubbish side of their personality. Inspired by the gritty streets of London, this gin is direct, unapologetic, and doesn’t hold back on how much of a rebel gin can be.</p>
+    <p>an installation piece where typography and the human perspective converge into one. It consisted of 14 curated typographic works based on 14 audible interviews, all centered around one question. What is one moment that changed your life?The intent of Through the Type was to show the audience a typographic window into every interviewee’s life changing event and by doing so bringing perspective to an unknown voice.</p>
 
 </div>
 

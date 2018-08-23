@@ -28,31 +28,31 @@
 
 
     <img class="artwork" src="students/summer18/tanner_jones/t_jones_image1.jpg" alt="Photo of Project 1">
-    <h2>Language of the Street</h2>
+    <h2>Neon Zine</h2>
 	<br>
-    <p>Illustration, motion, writing and narration for 90-second animation promoting the value of street-style-vernacular over industry-dictated trends. My first deep dive into Adobe AfterEffects!</p>
+    <p>With this project we went to the Oregon Historical Society. We were allowed to create a zine on any display. I chose to do mine on the 60's, specifically the neon signs on Portland. The pages are rise printed, and the cover is screen printed on vellum.</p>
 
     <img class="artwork" src="students/summer18/tanner_jones/t_jones_image2.jpg" alt="Photo of Project 2">
-    <h2>Transactional-living.org</h2>
+    <h2>Sparrow Bakery Rebrand</h2>
 	<br>
-    <p class="p_noborder">is an ongoing web project that explores the conflicted roles designers experience in regards to advertising, ethics, consumption and contemporary living. The site hopes to anchor some of the more theoretical content with anecdotal animations inspired from my everyday life and feelings. </p>
+    <p>Is an ongoing web project that explores the conflicted roles designers experience in regards to advertising, ethics, consumption and contemporary living. The site hopes to anchor some of the more theoretical content with anecdotal animations inspired from my everyday life and feelings. </p>
    
-    <p class="p_border"></p>
+    
 
     <img class="artwork" src="students/summer18/tanner_jones/t_jones_image3.jpg" alt="Photo of Project 3">
-    <h2>Balloon Sleeve Trench Site</h2>
+    <h2>2019 Calendar</h2>
 	<br>
-    <p class="p_noborder">Scroll-based interactive website exploring the history, features, and pairing possibilities of a trench coat.</p>
-    <div class="website_btn">
+    <p>Here is my 2019 calendar I created as a personal project. All of the illustrations were from a "poster a week" project I started for myself.</p>
+    
         
-    </div>
-    <p class="p_border"></p>
+    
+    
 
 
     <img class="artwork" src="students/summer18/tanner_jones/t_jones_image4.jpg" alt="Photo of Project 4">
-    <h2>Sardine Head: A Natural Wine Dive Bar</h2>
+    <h2>World's Most Annoying Passengers</h2>
 	<br>
-    <p>Identity and publication design for real-life natural wine dive bar, which opened in North Portland this April. It is Sardine Head's aim to take the elitism out of wine culture and make wine accessible to all.</p>
+    <p>This is my taxonomy project about the different types of people you encounter on an airplane. It was originally a poster but I converted it into a magazine mockup. All of the illustrations were done separately on vellum, then digitized and stitched together.</p>
 
 </div>
 

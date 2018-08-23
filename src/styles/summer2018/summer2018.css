@@ -95,7 +95,7 @@ Main Body Styles
          font-weight: bold;
      }
 	 .top_bar{
-	            top: 0px;
+	       top: 0px;
          left: 0px;
          padding: 15px 90px;
          background:#363636;
@@ -134,7 +134,7 @@ Main Body Styles
      }
 				  
 	 .bottom_bar {
-         padding: 15px 90px;
+         
          padding-top: 25px;
          background:#363636;
          width: 100%;
@@ -179,7 +179,7 @@ Main Body Styles
      .bottom_bar img{
          min-width: 30%;
          max-width: 35%;
-         padding-right: 5%; 
+         padding-left: 5%; 
          float: left;
          position: relative;
          
@@ -192,21 +192,19 @@ Main Body Styles
 
      .bottom_bar p {
          float: left;
-         max-width: 50%;
          padding-right: 3%;
          color: white;
      }
 
 
      p {
-         font-family: 'Josefin Sans', sans-serif;
-		 
-         font-size: 1em;
-         line-height: 1.5;
-         letter-spacing: .02em;
-         color: white;
-         padding-bottom: 5px;
-     }
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 1em;
+    line-height: 1.5;
+    letter-spacing: .02em;
+    color: white;
+    padding-bottom: 16px;
+}
 	  h7 {
          font-family: 'Josefin Sans', sans-serif;
 		 
@@ -455,6 +453,19 @@ Main Body Styles
          opacity: 0;
      }
      
+	 
+	 .mobile_introtext {
+    display: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 3%;
+    min-width: 100%;
+}
+
+			.moblie_introtext p{
+				flost:left;
+				min-width: 50%;
+			}
+				
      .arrowleft {
          display: inline;
          margin: 45px 10px -10px -5px;
@@ -1437,15 +1448,20 @@ flexslider
      }
      
      .footerLogos {
-         max-width: 80%;
+         max-width: 100%;
          margin: auto;
-          display:flex;
-          flex-direction: row;
-          flex-wrap: nowrap;
-          justify-content: space-between;
-          align-content: flex-end;
-          align-items: center;
-              padding-bottom: 50px;
+		 display: flex;
+ 		flex-direction: row;
+ 		flex-wrap: nowrap;
+ 		justify-content: space-between;
+ 		align-content: flex-end;
+ 		align-items: center;
+ 		padding-bottom: 10px;
+ 		background-color: rgba(255, 255, 255, 0.75);
+
+ 		height: 100px;
+ 		padding-top: 30px;
+ 		width: 190em;
      }
      
      .footerLogos img {
@@ -1971,8 +1987,19 @@ flexslider
         .biosection{
             padding-top: 120px;
         }
+		
+		.top_bar {
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    padding: 15px 60px;
+}
 
-
+	
+  				.bottom_bar{
+					padding:15px 50px;
+					
+					
+					}
          /* =Media query for 800px wide
 -------------------------------------------------------------- */
          @media (max-width: 1000px) {
@@ -2002,6 +2029,13 @@ flexslider
              .reg br {
                  display: none;
              }
+			 
+			 
+			 .logo-grad{
+			 	display:none;
+			 }
+			 
+			 
              .reg {
                  text-align: center;
                  padding: 0px 20px;
@@ -2011,11 +2045,41 @@ flexslider
                      max-width: 100%;
                      padding: 30px 20px 140px 20px;
                  }
-				 
-				 #moblie_logo{  
+				.top_bar {
+    				 padding: 30px;
+    			 	 display: block;
+     				 top: 20px;
+    			     padding: 0px;
+			   	    height: auto;
+                    margin-bottom: 3%;
+} 
+                .bottom_bar{
+					padding: 30px;
+					
+					
+					}
+					.bottom_bar p {
+                   line-height: 1.8em;
+}
+					
+					
+                  .bottom_bar div {
+    				max-width: 100%;
+}
+
+					.mobile_introtext {
+    				display: block;
+}
+					#desktop_logo {
+    				display: none;
+}
+				.top_bar p {
+                display: none;
+}
+				 #mobile_logo{  
 				   	display: block;
-     				margin-top: 5%;
-        	        margin-bottom: 5%;
+     				margin-top: 15%;
+        	        margin-bottom: 0%;
 }
                  .footerLogos {
                      display: -webkit-box;
@@ -2040,6 +2104,9 @@ flexslider
                  .photoGrid li a div h3 {
                      font-size: 2em;
                  }
+				 .bottom_bar p{
+				 	line-height: 1.8em;
+				 	
              }
              /* =Media query for 600px wide
 -------------------------------------------------------------- */

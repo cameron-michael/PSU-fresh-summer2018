@@ -14,11 +14,11 @@
 	<p><strong>Star Sign:</strong> Taurus</p>
 	<p><strong>Favorite Color:</strong> Deep Red</p>
 	<p><strong>Skills:</strong> <br>
-	 –Visual Story Telling<br>
-	 –Ideation<br>
-	 –Board Game Design<br>
-	 –UI/UX<br>
-	 –Illustration </p>
+	 – Visual Story Telling<br>
+	 – Ideation<br>
+	 – Board Game Design<br>
+	 – UI/UX<br>
+	 – Illustration </p><br>
 	<p><strong>Bio:</strong><p>
     <p>Anna is an obsessive researcher by day and a netflix-and-coder by night. She is looking for a job at a small firm or an in-house position where she can wear a lot of hats (physically and metaphorically). Turn ons include color coding, being bossy and getting stuff done. Her guilty pleasure is succeeding at things where she has previously failed. When she grows up she wants to be a master gardener.</p>
 

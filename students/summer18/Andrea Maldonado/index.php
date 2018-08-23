@@ -21,7 +21,8 @@
 	– Print Layout <br>
 	– Ideation <br>
 	– Production <br>
-	– Typography </p> <br>
+	– Typography </p> 
+	
 	<p><strong>Bio:</strong><p>
     <p>Andrea is looking for a special job that allows her to provide an outlet for people who don’t have a voice, inspires her every day, and allows her to grow as a designer and a human. Her guilty pleasure is print layout combined with bold and bright typography with a little spunk sprinkled in for good measure. When she grows up, she wants to help her Latin Community grow and inspire by having her own studio.</p>
 

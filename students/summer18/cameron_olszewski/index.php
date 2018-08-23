@@ -49,10 +49,9 @@
 
 
     <img class="artwork" src="students/summer18/cameron_olszewski/c_olszewski_image_4.jpg" alt="Photo of Project 4">
-    <h2>Donnybrook</h2>
+    <h2>World Naked Bike Ride</h2>
 	<br>
-    <p>Donnybrook is for your casual drinker that wants to embrace their rubbish side of their personality. Inspired by the gritty streets of London, this gin is direct, unapologetic, and doesn’t hold back on how much of a rebel gin can be.</p>
-
+    <p>This cover showcases how the World Naked Bike Ride has become an important part of Portland’s culture. This importance is highlighted through the cover’s use of large geometric shapes and vivid colors. </p>
 </div>
 
 <!--FOOTER -->

@@ -22,12 +22,14 @@
           -->
   
       <img src="src/img/summer2018/logo-bios.png">
+	  
 
 
   <!-- end of FRESH logo -->
 
       </a>
     </div>
+	<img id="mobile_logo" src="src/img/summer2018/Asset5.svg">
 
 		<!-- Nav Slides -->
 			<!-- Class "cbp-spmenu-open" gets applied to menu -->
