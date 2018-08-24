@@ -46,7 +46,7 @@
       
       <p class="credits">Project Management by <span><a href="grad.php?name=anna_slusser">Anna Slusser</a></span></p>
             
-      <p class="credits">Photography by <span><a href="grad.php?name=tanner_jones">Tanner Jones</a> &amp; <a href="grad.php?name=stephanie_doshier">Stephanie Doshier</a> &amp; <a href="grad.php?name=charlie_hilton">Charlie Hilton</a></span></p>
+      <p class="credits">Photography by <span><a href="grad.php?name=tanner_jones">Tanner Jones</a>, <a href="grad.php?name=stephanie_doshier">Stephanie Doshier</a> &amp; <a href="grad.php?name=charlie_hilton">Charlie Hilton</a></span></p>
       
       <p class="credits">Copywriting by <span><a href="grad.php?name=kate_pedersen">Kate Pedersen</a></span></p>
       
@@ -95,6 +95,10 @@
 
   <a href="https://www.rogue.com/" target="_blank">
   <img class="schoolLogos footerSponsor" src="src/img/summer2018/rogue-ales-logo.svg" alt="Rogue">
+  </a>
+  
+  <a href="https://www.pizzajerkpdx.com/" target="_blank">
+  <img class="schoolLogos footerSponsor" src="src/img/summer2018/pizza_jerk.png" alt="Rogue">
   </a>
   
  

@@ -194,7 +194,7 @@ Main Body Styles
          float: left;
          padding-right: 3%;
          color: white;
-		 width: 60%;
+		 
      }
 
 
@@ -2058,9 +2058,11 @@ flexslider
 					padding: 30px;
 					
 					
+					
 					}
 					.bottom_bar p {
                    line-height: 1.8em;
+				   width: 60%;
 }
 					
 					

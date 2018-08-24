@@ -14,7 +14,8 @@
      
         <a href="http://www.wildrootsspirits.com"><img src="src/img/summer2018/wrlogo.png"></a>
         <a href="https://www.decadentcreations.com/"><img src="src/img/summer2018/dclogo.png"></a>
-        <a href="https://www.rogue.com/"><img src="src/img/summer2018/red_duck.png"></a>
+        <a href="https://www.redduck.com/"><img src="src/img/summer2018/red_duck.png"></a>
 		<a href="https://www.rogue.com/"><img src="src/img/summer2018/rogue-ales-logo.svg"></a>
+		 <a href="https://www.pizzajerkpdx.com/"><img src="src/img/summer2018/pizza_jerk.png"></a> 
     </div>
 </div>
