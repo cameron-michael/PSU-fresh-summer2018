@@ -18,11 +18,12 @@
 	<p><strong>Star Sign:</strong> Sagittarius</p>
 	<p><strong>Favorite Color:</strong> Yellow</p>
 	<p><strong>Skills:</strong> <br>
-	– Production Layout<br>
-	– Ideation<br> 
+	– Production<br>
+	– Layout<br>
+	– Web Design<br> 
 	– UI/UX<br>
-	– Writing Web<br>
-	– Environmental </p><br>
+	– Writing <br>
+
 	<p><strong>Bio:</strong><p>
     <p>Kate loves to create an experience with her designs and is constantly thinking about how she can set the mood. She is looking for that special job that inspires her every day and allows her to grow as a designer and person. Her guilty pleasure is combining print layout and web design in order to showcase type in an unexpected way. When she grows up she wants to design movie sets and maybe even star in a movie.</p>
 

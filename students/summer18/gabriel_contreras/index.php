@@ -45,7 +45,7 @@
  
 
 
-    <img class="artwork" src="students/summer18/gabriel_contreras/g_contreras_image_1.jpg" alt="Photo of Project 4">
+    <img class="artwork" src="students/summer18/gabriel_contreras/g_contreras_image_4.jpg" alt="Photo of Project 4">
     <h2>NW Daggers</h2>
 	<br>
     <p>A graphic made into patches for a fixed gear bicycle club.</p>

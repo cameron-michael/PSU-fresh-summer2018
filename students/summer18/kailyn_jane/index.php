@@ -23,7 +23,8 @@
 	– Layout<br>
 	– Ideation<br>
 	– Packaging<br>
-	– Surface Design Color Theory </p><br>
+	– Surface Design<br>
+	– Color Theory </p><br>
 	
 	<p><strong>Bio:</strong><p>
     <p>Kailyn's work focuses on the celebration of self-expression through dynamic layouts and bold color palettes. Her major turn on is surface design and packaging. She enjoys working hard and being challenged daily. In her free time, her guilty pleasure is doodling on her iPad and making goods for you! When she grows up, she wants to be an inspiration to her younger self. :)</p>
