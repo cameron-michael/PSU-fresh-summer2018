@@ -364,13 +364,13 @@ Main Body Styles
      
      .statement {
          background: #363636;
-         color: black;
+         color: white;
          padding-bottom: 140px;
          margin-bottom: 30px;
      }
      
      .statement h1 {
-         color: black;
+         color: white;
          padding-bottom: 40px;
          border-bottom: 3px solid #f89a2e;
          margin-bottom: 30px;
