@@ -8,7 +8,7 @@
 		
     </div>
 	<div class="website_btn">
-        <a target="_blank" href="http://instagram.com/tjdesigns">VIEW INSTAGRAM</a>
+        <a target="_blank" href="http://instagram.com/_tjdesigns_/">VIEW INSTAGRAM</a>
 		
     </div>
 </div>
