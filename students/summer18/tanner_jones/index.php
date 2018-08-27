@@ -24,7 +24,7 @@
 	– Logos<br>
 	– Branding </p><br>
 	<p><strong>Bio:</strong><p>
-    <p>Tanner’s biggest turn ons are materials, and how they can effect your perspective of a project. He loves pushing the boundaries of projects and what can be done! He's looking for a small/ medium size agency that will push and challenge him to become a better designer every day! But still let his goofy side come out. When he grows up he wants to be an art director.</p>
+    <p>Tanner’s biggest turn ons are materials, and how they can effect your perspective of a project. He loves pushing the boundaries of projects and what can be done! He's looking for a small/medium size agency that will push and challenge him to become a better designer every day! But still let his goofy side come out. When he grows up he wants to be an art director.</p>
 
 
     <img class="artwork" src="students/summer18/tanner_jones/t_jones_image1.jpg" alt="Photo of Project 1">
