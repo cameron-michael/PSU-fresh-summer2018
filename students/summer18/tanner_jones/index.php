@@ -35,8 +35,7 @@
     <img class="artwork" src="students/summer18/tanner_jones/t_jones_image2.jpg" alt="Photo of Project 2">
     <h2>Sparrow Bakery Rebrand</h2>
 	<br>
-    <p>Is an ongoing web project that explores the conflicted roles designers experience in regards to advertising, ethics, consumption and contemporary living. The site hopes to anchor some of the more theoretical content with anecdotal animations inspired from my everyday life and feelings. </p>
-   
+    <p>This project was in collaboration with Studio Butch here in Portland. The was a rebrand for The Sparrow Bakery down in Bend, OR. </p>   
     
 
     <img class="artwork" src="students/summer18/tanner_jones/t_jones_image3.jpg" alt="Photo of Project 3">
