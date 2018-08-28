@@ -41,6 +41,8 @@
 		 <!--STATEMENT-->
 		<div class="row statement">
 			<div class="s3 c6" style="text-align:center;">
+			<br>
+			<br>
 				<h1 class="archive-header">SPRING 2018 GRADUATE PORTFOLIOS</h1>
 				<p>Scroll down the page for more PSU design graduates.</p>
 				<img class="arrow_dn" src="src/img/arrow.svg">
